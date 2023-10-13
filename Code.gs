@@ -23,9 +23,9 @@
  *    http://artlebedev.ru/kovodstvo/sections/62/
  *    https://en.wikipedia.org/wiki/Non-breaking_space
  *    https://ru.wikipedia.org/wiki/Неразрывный_пробел
- *    https://typograf.github.com
+ *    https://typograf.github.io
  *
- *  https://github.com/glebkema/google-docs-typograf
+ *  https://github.com/magnum79/google-docs-typograf
  */
 
 
@@ -410,6 +410,7 @@ function typograf() {
 
   // предлоги и союзы из 1 буквы
   nbspAfter(body, 'а');
+  nbspAfter(body, 'и');
   nbspAfter(body, 'в');
   nbspAfter(body, 'к');
   nbspAfter(body, 'о');
